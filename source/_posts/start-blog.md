@@ -10,3 +10,7 @@ tags:
 This is a test in blog
 
 I want to test how to deploy hexo
+
+![](/images/test.jpg)
+
+
