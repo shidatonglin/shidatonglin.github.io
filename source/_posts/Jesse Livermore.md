@@ -539,3 +539,204 @@ As Jesse said, nothing changes on Wall Street and I’ve found that simple techn
 Many of the best traders do not use complicated strategies, systems or techniques. They simply follow the trends. This sounds simplistic but it isn’t easy because good trend following entails working against your natural human instincts.
 
 Once you know how to find trends and you know how to manage risk, it is the ability to control your psychology that will determine whether or not you can beat the market. If you can do that, you can trade like Jesse Livermore did, and you can have fun taking down the biggest trends.
+
+
+THE 23 BEST JESSE LIVERMORE QUOTES AND TRADING RULES
+
+
+As we like to learn from the best traders that are out there we’ve read every book about Jesse Livermore. Also his own book How to Trade Stocks. And his life story in Reminiscences of a Stock Operator by Edwin Lefere.
+
+Here is a selection of the best Jesse Livermore quotes that have helped us improve our trading. All of his quotes can be used as great trading rules.
+
+So why are the trading rules Jesse used in the early 1900’s still worth keeping in mind in these markets? Let’s start with one of the best things he had to say about the stock market:
+
+1. “THERE IS NOTHING NEW IN WALL STREET. THERE CAN’T BE BECAUSE SPECULATION IS AS OLD AS THE HILLS. WHATEVER HAPPENS IN THE STOCK MARKET TODAY HAS HAPPENED BEFORE AND WILL HAPPEN AGAIN.”
+Because the stock market is made up of all of the traders, those are the people that make the stock market. And human nature doesn’t change that much over time.
+
+Off course there will be different circumstances in todays market then there were almost hundred years ago.
+
+But the way people react to changes in the stock market will never change.
+
+2. “BUY RISING STOCKS AND SELL FALLING STOCKS”
+There are very successful contrarian traders and investors in the world. Although you might become successful at going against the grain on the stock market, it is so much easier to just go with the flow.
+
+When a stock moving in a certain direction it means that most of the traders have the same idea of where the stock will go. If the majority thinks the stock will go higher they’ll decide to buy. Which causes the price to rise and creating a kind of self-fulfilling prophecy.
+
+Pick the stocks that are trading higher over time and you know that most of the traders involved believe the price will continue to rise.
+
+Don’t make it harder for yourself to go against everybody. Instead learn to recognize the signs of when a stock starts to move so you can get in early.
+
+In that way you can profit the most from the big move the stock is going to make.
+
+3. “DO NOT TRADE EVERY DAY OF EVERY YEAR”
+Especially as a new trader you are eager to be active in the market. You are looking for trades all of the time.
+
+Remember that you don’t need to trade every day. And that it is even better not to trade a lot of times.
+
+You need to learn not to force trades. Only pick the trades that you have the best odds to make money.
+
+All the other trades will cost you a lot of time to prepare and a lot of stress when you’re in them. And they will never be the trades that will make you the big money.
+
+4. “TRADE ONLY WHEN THE MARKET IS CLEARLY BULLISH OR BEARISH”
+As mention before it is better to follow the direction of a stock. The same thing goes for the overall market.
+
+Stock trading is hard enough to learn. So there is no need to make it any harder than necessary.
+
+When the market has no clear direction it is best to sit on the sideline. Just wait and see how the market is forming itself.
+
+The stock market is the average of all the stocks traded on the market. When the market is clearly trending in one direction it means that the majority of the stocks is heading in the same direction.
+
+Those are the easy picks for you.
+
+When the market has no clear direction there is no saying of what all the individual stock will do.
+
+5. “ONLY ENTER A TRADE AFTER THE ACTION OF THE MARKET CONFIRMS YOUR OPINION AND THEN ENTER PROMPTLY”
+Before ever making a trade you need to have your trade plan ready. Not only the reasons of why you want to enter the trade, but also when you should exit it.
+
+Be meticulous in your research and make sure the trade fits with your strategy. Create a trade plan for each trade that you want to make.
+
+After your trade plan is ready don’t rush into the trade. Let the market confirm your thesis. And wait for the trade to expose itself to you.
+
+6. “CONTINUE WITH TRADES THAT SHOW YOU A PROFIT, END TRADES THAT SHOW A LOSS”
+You’ll probably end up with more than one active trade at most of the times. In those cases it is important to remember to stay with your winners.
+
+For most traders it is too difficult to take a loss. First they take their profit on a winning trade. And hold on to the losing trades.
+
+Hoping that those losing stocks will turn around and change in a profit.
+
+Off course hope is not a strategy for the stock market.
+
+And hoping that a losing stock is going to turn around is just foolish. Don’t try to fight the market.
+
+7. “END TRADES WHEN IT IS CLEAR THAT THE TREND YOU ARE PROFITING FROM IS OVER”
+You’ve thought about every trade you make and have created a trade plan. When the market has confirmed your idea about the stock you finally decided to take a position.
+
+Now the most important thing is to be aware of all the changes that might make your trade plan worthless. Be prepared to sell your position when the market changes direction.
+
+When the confirmation the stock earlier showed is no longer there, there is only one thing you can do and that is to close your position.
+
+8. “IN ANY SECTOR, TRADE THE LEADING STOCK – THE ONE SHOWING THE STRONGEST TREND”
+In your research you’ve found a sector that is doing extremely well in the current market. You’ve decided to look for stocks in that market to trade.
+
+Why not only go for the best? Because the lesser stock might seem attractive at a certain time?
+
+Don’t get tempted to do that. As said before you need to make trading as easy as possible for yourself.
+
+And the leading stock in the sector simply will give you the best chances of success. Never go for anything less than that.
+
+9. “NEVER AVERAGE LOSSES BY, FOR EXAMPLE, BUYING MORE OF A STOCK THAT HAS FALLEN”
+One of your position is showing a loss. What to do now? Maybe you should add to your position?
+
+You still think the stock should go higher. And the buy price is currently lower than the stock you already own. That sounds like a bargain, right?
+
+No! Keep your back straight and don’t get lured into that losers game.
+
+The stock that is showing a loss is clearly saying to you that your entry point was wrong. There is no reason in the world why you would want to buy more of something you were wrong about.
+
+10. “GO LONG WHEN STOCKS REACH A NEW HIGH. SELL SHORT WHEN THEY REACH A NEW LOW”
+When stocks enter a new price area there it is harder to predict what moves it will make. This is also the place where the greatest market outliers can be found.
+
+Stocks that reach new high have never been valued that high. That mostly happens because the future looks better than it has before. The perfect time to get in the stock and profit from the bright future.
+
+Exact the same goes for shorting a stock that reaches a new low. There is probably a good reason for the stock to be valued this low.
+
+11. “DON’T BECOME AN INVOLUNTARY INVESTOR BY HOLDING ONTO STOCKS WHOSE PRICE HAS FALLEN”
+When your trade is not working out and your position shows a loss it is hard to cut it.
+
+For us human beings it is extremely difficult to accept our faults. Especially when they’ll cost us money.
+
+But don’t be tempted to turn a trade into an investment by holding onto stocks.
+
+If you’re looking for investments you should have started with a different set of criteria. You started with a trading view of point.
+
+Is the stock not confirming your thesis? Get out of it instantly. Learn from it and start looking for the next opportunity.
+
+12. “MARKETS ARE NEVER WRONG – OPINIONS OFTEN ARE”
+Never argue with the stock market. Even if your research was so meticulous. And you are 1000% certain the stock must move in a certain direction.
+
+When the market is showing you something else you need to get out of your trade.
+
+Your thesis might be proven to be right in the future. Apparently currently the market disagrees. And there is no discussion about it.
+
+13. “THE HIGHEST PROFITS ARE MADE IN TRADES THAT SHOW A PROFIT RIGHT FROM THE START”
+This is a very important rule to remember. All of our best trades have shown a profit right from the moment we bought the stock.
+
+The profit simply confirms that your idea about the stock and price action is completely right.
+
+Treasure these trades and let them ride as long as you can.
+
+14. “NO TRADING RULES WILL DELIVER A PROFIT 100 PERCENT OF THE TIME”
+There is no garantue in the stock market. All you need to be looking for is to be profitable.
+
+Accept the fact that you’ll never be right 100% of the time. Accept that you’re going to need to take losses.
+
+Focus on the long term profitability of your trades.
+
+Even with a winning percentage of less than 50% you can be profitable in the long term. Most of this has to do with your risk and money management.
+
+15. “AS LONG AS A STOCK IS ACTING RIGHT, AND THE MARKET IS RIGHT, DO NOT BE IN A HURRY TO TAKE PROFITS”
+Don’t feel rushed to take profit on a position that is still moving in the right direction.
+
+It is good to secure some of the profit so that you never let a profit turn into a loss. But don’t sell your whole position when the price action on your stock is still strong.
+
+16. “NEVER BUY A STOCK BECAUSE IT HAS HAD A BIG DECLINE FROM ITS PREVIOUS HIGH”
+It can seem tempting to buy a stock when it is down a lot from it’s previous high. Off course when there is nothing changed in the company it might be a good investment to bottom feed.
+
+For a trader this is never a good sign. There must be a reason why the market has dumped the stock that hard.
+
+And there is no guarantee that the stock will return to it’s highs. It can still go lower and even go bankrupt in the end.
+
+17. “NEVER SELL A STOCK BECAUSE IT SEEMS HIGH-PRICED”
+Almost the same goes for selling a stock because it seems to be high-priced. Or because it has had such a big rise in the last time.
+
+Both are no reasons to sell a stock. The only reasons the sell a stock is when you get signs from the market that the sentiment for the stock is turning.
+
+That might be a declining interest in buying power for the stock. Or even a turnaround an increase of sellers on the market.
+
+The rise is has made, or the high price the stock has can never be the reason to sell.
+
+18. “THE HUMAN SIDE OF EVERY PERSON IS THE GREATEST ENEMY OF THE AVERAGE INVESTOR OR SPECULATOR”
+This is one of my favorite quotes from Jesse Livermore. Because it is so true and overlooked by most of us traders.
+
+The technical side of trading is simple to understand and learn. Applying your trading rules starts to become harder, because now your emotions are getting involved.
+
+Although the hardest part is sticking to your plan and rules when things get though. Those are exactly the times that your trading plan and trading rules are the most important.
+
+And the hardest time to stick to them. You need to learn to control your emotions to become successful in the stock market.
+
+19. “WISHFUL THINKING MUST BE BANISHED”
+We’ve already said that hope is not a strategy. And so is wishful thinking.
+
+There is no place for both of them in trading. Stick to the facts that your research and the market shows.
+
+Hoping that things will turn out in right way is not going to make you money.
+
+20. “BIG MOVEMENTS TAKE TIME TO DEVELOP”
+Although the best trades show a profit right from the start, the really big movements take time to develop.
+
+Mainly because the big trading institutions on the stock market can’t take a position within a day. Or even a couple of days or weeks.
+
+Sometimes it takes months for them to take the position they want. And all that time the stock is moving in that direction.
+
+When a stock is acting right you have to be patient and let it ride until it there are reasons to exit your trade.
+
+21. “IT IS NOT GOOD TO BE TOO CURIOUS ABOUT ALL THE REASONS BEHIND PRICE MOVEMENTS”
+Most of the time it is very good to understand the reason behind price moves of stocks. Also because when you know what moves stocks you can anticipate on those events in an early stage.
+
+But sometimes it is hard to find the reason behind price movement. And as a trader that is OK. As long as the stock moves you can profit from it.
+
+If you’ve learned to read the price action you don’t need to know the reason behind all price moves. Just know how to profit from them.
+
+22. “IT IS MUCH EASIER TO WATCH A FEW THAN MANY”
+Keep your watch list manageble. When doing your research it is easy to find stocks that might look interesting and add them to your watch list.
+
+Especially because you’re afraid to miss out on the big moves. As your watch list grows it becomes harder to keep an eye on all of them.
+
+Resulting in not being able to create a solid trade plan for any of them. It is better to stick to a few stocks that you can manage. Then to a lot of them that you can’t control.
+
+23. “PATTERNS REPEAT, BECAUSE HUMAN NATURE HASN’T CHANGED FOR THOUSAND OF YEAR”
+To finish with a last quote of Jesse Livermore that is similar to the one we started with.
+
+Human are the driving force behind all the trades on the stock market. Because human nature never changes, the stock market patterns will never change.
+
+The rules that have worked hundred years ago still work in today’s stock market.

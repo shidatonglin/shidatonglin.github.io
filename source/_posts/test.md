@@ -1,5 +1,5 @@
 ---
-title: Hexo主题插入音乐之aplayer音乐播放器
+title: Hexo插入音乐之aplayer音乐播放器
 copyright: true
 date: 2019-05-28 21:39:08
 categories:
@@ -12,15 +12,18 @@ Hello My Picture
 ![](https://i.loli.net/2019/05/28/5ced5141f25fa18202.jpg)
 
 
-163 music
-
+网易云音乐 iframe 方式
+{% codeblock %}
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1352962983&auto=1&height=66"></iframe>
+{% endcodeblock %}
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1352962983&auto=1&height=66"></iframe>
 
-
-使用meeting的一首歌
-网易云音乐
+网易云音乐meting的方式
+{% codeblock %}
 {% meting "28754098" "netease" "song" "theme:#555" "mutex:true" "listmaxheight:340px" "preload:auto" %}
+{% endcodeblock %}
 
+{% meting "28754098" "netease" "song" "theme:#555" "mutex:true" "listmaxheight:340px" "preload:auto" %}
 酷狗
 {% meting "#hash=D351FD0A166BCC1DDDC8EE7D7ABBAAC2&album_id=15823139" "kugou" "song" "theme:#555" "mutex:true" "listmaxheight:340px" "preload:auto" %}
 
