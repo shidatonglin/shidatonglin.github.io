@@ -1,0 +1,396 @@
+---
+layout: fasle
+categories: mysql
+tags: mysql
+---
+<!DOCTYPE html>
+<!-- saved from url=(0059)https://pymysql.readthedocs.io/en/latest/user/examples.html -->
+<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Examples — PyMySQL 0.7.2 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script async="" src="./Examples — PyMySQL 0.7.2 documentation_files/analytics.js.download"></script><script type="text/javascript" src="./Examples — PyMySQL 0.7.2 documentation_files/modernizr.min.js.download"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../" src="./Examples — PyMySQL 0.7.2 documentation_files/documentation_options.js.download"></script>
+        <script type="text/javascript" src="./Examples — PyMySQL 0.7.2 documentation_files/jquery.js.download"></script>
+        <script type="text/javascript" src="./Examples — PyMySQL 0.7.2 documentation_files/underscore.js.download"></script>
+        <script type="text/javascript" src="./Examples — PyMySQL 0.7.2 documentation_files/doctools.js.download"></script>
+        <script type="text/javascript" src="./Examples — PyMySQL 0.7.2 documentation_files/language_data.js.download"></script>
+        <script type="text/javascript" src="./Examples — PyMySQL 0.7.2 documentation_files/readthedocs-doc-embed.js.download"></script>
+    
+    <script type="text/javascript" src="./Examples — PyMySQL 0.7.2 documentation_files/theme.js.download"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="./Examples — PyMySQL 0.7.2 documentation_files/theme.css" type="text/css">
+  <link rel="stylesheet" href="./Examples — PyMySQL 0.7.2 documentation_files/pygments.css" type="text/css">
+    <link rel="index" title="Index" href="https://pymysql.readthedocs.io/en/latest/genindex.html">
+    <link rel="search" title="Search" href="https://pymysql.readthedocs.io/en/latest/search.html">
+    <link rel="next" title="Resources" href="https://pymysql.readthedocs.io/en/latest/user/resources.html">
+    <link rel="prev" title="Installation" href="https://pymysql.readthedocs.io/en/latest/user/installation.html"> 
+
+<!-- RTD Extra Head -->
+
+<!-- 
+Always link to the latest version, as canonical.
+http://docs.readthedocs.org/en/latest/canonical.html
+-->
+<link rel="canonical" href="https://pymysql.readthedocs.io/en/latest/user/examples.html">
+
+<link rel="stylesheet" href="./Examples — PyMySQL 0.7.2 documentation_files/readthedocs-doc-embed.css" type="text/css">
+
+<script type="text/javascript" src="./Examples — PyMySQL 0.7.2 documentation_files/readthedocs-data.js.download"></script>
+
+<!-- Add page-specific data, which must exist in the page js, not global -->
+<script type="text/javascript">
+READTHEDOCS_DATA['page'] = 'user/examples'
+READTHEDOCS_DATA['source_suffix'] = '.rst'
+</script>
+
+<script type="text/javascript" src="./Examples — PyMySQL 0.7.2 documentation_files/readthedocs-analytics.js.download"></script>
+
+<!-- end RTD <extrahead> -->
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="https://pymysql.readthedocs.io/en/latest/index.html" class="icon icon-home"> PyMySQL
+          
+
+          
+          </a>
+
+          
+            
+            
+            
+              <div class="version">
+                latest
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="https://pymysql.readthedocs.io/en/latest/search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs">
+    <input type="hidden" name="check_keywords" value="yes">
+    <input type="hidden" name="area" value="default">
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="https://pymysql.readthedocs.io/en/latest/user/index.html"><span class="toctree-expand"></span>User Guide</a><ul class="">
+<li class="toctree-l2"><a class="reference internal" href="https://pymysql.readthedocs.io/en/latest/user/installation.html">Installation</a></li>
+<li class="toctree-l2 current"><a class="reference internal current" href="https://pymysql.readthedocs.io/en/latest/user/examples.html#"><span class="toctree-expand"></span>Examples</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="https://pymysql.readthedocs.io/en/latest/user/examples.html#crud">CRUD</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="https://pymysql.readthedocs.io/en/latest/user/resources.html">Resources</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://pymysql.readthedocs.io/en/latest/user/development.html">Development</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="https://pymysql.readthedocs.io/en/latest/modules/index.html">API Reference</a></li>
+</ul>
+
+            
+          
+        </div>
+      <div id="rtd-yz5jgh8p" class="ethical-rtd ethical-dark-theme"><div class="ethical-sidebar"><div class="ethical-content"><a href="https://readthedocs.org/sustainability/click/576/70VFIJUlk88U/" rel="nofollow" target="_blank" class="ethical-image-link"><img src="./Examples — PyMySQL 0.7.2 documentation_files/powerfulpython1.jpg"></a><div class="ethical-text"><a href="https://readthedocs.org/sustainability/click/576/70VFIJUlk88U/" rel="nofollow" target="_blank">Daily ADVANCED Python newsletter. "I read loyally every day. Thank you!" Sign up free now</a></div></div><div class="ethical-callout"><small><em><a href="https://readthedocs.org/sustainability/advertising/">Sponsored</a><span> · </span><a href="https://docs.readthedocs.io/en/latest/ethical-advertising.html">Ads served ethically</a></em></small></div></div><img src="./Examples — PyMySQL 0.7.2 documentation_files/saved_resource" style="display: none;"></div></div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="https://pymysql.readthedocs.io/en/latest/index.html">PyMySQL</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="https://pymysql.readthedocs.io/en/latest/index.html">Docs</a> »</li>
+        
+          <li><a href="https://pymysql.readthedocs.io/en/latest/user/index.html">User Guide</a> »</li>
+        
+      <li>Examples</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            
+              <a href="https://github.com/PyMySQL/PyMySQL/blob/master/docs/source/user/examples.rst" class="fa fa-github"> Edit on GitHub</a>
+            
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="examples">
+<span id="id1"></span><h1>Examples<a class="headerlink" href="https://pymysql.readthedocs.io/en/latest/user/examples.html#examples" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="crud">
+<span id="id2"></span><h2>CRUD<a class="headerlink" href="https://pymysql.readthedocs.io/en/latest/user/examples.html#crud" title="Permalink to this headline">¶</a></h2>
+<p>The following examples make use of a simple table</p>
+<div class="code sql highlight-default notranslate"><div class="highlight"><pre><span></span>CREATE TABLE `users` (
+    `id` int(11) NOT NULL AUTO_INCREMENT,
+    `email` varchar(255) COLLATE utf8_bin NOT NULL,
+    `password` varchar(255) COLLATE utf8_bin NOT NULL,
+    PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin
+AUTO_INCREMENT=1 ;
+</pre></div>
+</div>
+<div class="code python highlight-default notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">pymysql.cursors</span>
+
+<span class="c1"># Connect to the database</span>
+<span class="n">connection</span> <span class="o">=</span> <span class="n">pymysql</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="n">host</span><span class="o">=</span><span class="s1">'localhost'</span><span class="p">,</span>
+                             <span class="n">user</span><span class="o">=</span><span class="s1">'user'</span><span class="p">,</span>
+                             <span class="n">password</span><span class="o">=</span><span class="s1">'passwd'</span><span class="p">,</span>
+                             <span class="n">db</span><span class="o">=</span><span class="s1">'db'</span><span class="p">,</span>
+                             <span class="n">charset</span><span class="o">=</span><span class="s1">'utf8mb4'</span><span class="p">,</span>
+                             <span class="n">cursorclass</span><span class="o">=</span><span class="n">pymysql</span><span class="o">.</span><span class="n">cursors</span><span class="o">.</span><span class="n">DictCursor</span><span class="p">)</span>
+
+<span class="k">try</span><span class="p">:</span>
+    <span class="k">with</span> <span class="n">connection</span><span class="o">.</span><span class="n">cursor</span><span class="p">()</span> <span class="k">as</span> <span class="n">cursor</span><span class="p">:</span>
+        <span class="c1"># Create a new record</span>
+        <span class="n">sql</span> <span class="o">=</span> <span class="s2">"INSERT INTO `users` (`email`, `password`) VALUES (</span><span class="si">%s</span><span class="s2">, </span><span class="si">%s</span><span class="s2">)"</span>
+        <span class="n">cursor</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="n">sql</span><span class="p">,</span> <span class="p">(</span><span class="s1">'webmaster@python.org'</span><span class="p">,</span> <span class="s1">'very-secret'</span><span class="p">))</span>
+
+    <span class="c1"># connection is not autocommit by default. So you must commit to save</span>
+    <span class="c1"># your changes.</span>
+    <span class="n">connection</span><span class="o">.</span><span class="n">commit</span><span class="p">()</span>
+
+    <span class="k">with</span> <span class="n">connection</span><span class="o">.</span><span class="n">cursor</span><span class="p">()</span> <span class="k">as</span> <span class="n">cursor</span><span class="p">:</span>
+        <span class="c1"># Read a single record</span>
+        <span class="n">sql</span> <span class="o">=</span> <span class="s2">"SELECT `id`, `password` FROM `users` WHERE `email`=</span><span class="si">%s</span><span class="s2">"</span>
+        <span class="n">cursor</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="n">sql</span><span class="p">,</span> <span class="p">(</span><span class="s1">'webmaster@python.org'</span><span class="p">,))</span>
+        <span class="n">result</span> <span class="o">=</span> <span class="n">cursor</span><span class="o">.</span><span class="n">fetchone</span><span class="p">()</span>
+        <span class="nb">print</span><span class="p">(</span><span class="n">result</span><span class="p">)</span>
+<span class="k">finally</span><span class="p">:</span>
+    <span class="n">connection</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+</pre></div>
+</div>
+<p>This example will print:</p>
+<div class="code python highlight-default notranslate"><div class="highlight"><pre><span></span><span class="p">{</span><span class="s1">'password'</span><span class="p">:</span> <span class="s1">'very-secret'</span><span class="p">,</span> <span class="s1">'id'</span><span class="p">:</span> <span class="mi">1</span><span class="p">}</span>
+</pre></div>
+</div>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="https://pymysql.readthedocs.io/en/latest/user/resources.html" class="btn btn-neutral float-right" title="Resources" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="https://pymysql.readthedocs.io/en/latest/user/installation.html" class="btn btn-neutral float-left" title="Installation" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr><div><div id="rtd-ormg5jzl" class="ethical-rtd"></div></div>
+
+  <div role="contentinfo">
+    <p>
+        © Copyright 2016, Yutaka Matsubara and GitHub contributors
+      
+        <span class="commit">
+          Revision <code>3674bc6f</code>.
+        </span>
+      
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org/">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+  <div class="rst-versions" data-toggle="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      <span class="fa fa-book"> Read the Docs</span>
+      v: latest
+      <span class="fa fa-caret-down"></span>
+    </span>
+    <div class="rst-other-versions"><!-- Inserted RTD Footer -->
+<div class="injected">
+
+  
+
+      
+      
+      
+      <dl>
+        <dt>Versions</dt>
+        
+         <strong> 
+        <dd><a href="https://pymysql.readthedocs.io/en/latest/user/examples.html">latest</a></dd>
+         </strong> 
+        
+      </dl>
+      
+      
+
+      
+      
+      <dl>
+        <dt>Downloads</dt>
+        
+        <dd><a href="https://readthedocs.org/projects/pymysql/downloads/htmlzip/latest/">HTML</a></dd>
+        
+      </dl>
+      
+      
+
+      
+      <dl>
+        <!-- These are kept as relative links for internal installs that are http -->
+        <dt>On Read the Docs</dt>
+        <dd>
+          <a href="https://readthedocs.org/projects/pymysql/">Project Home</a>
+        </dd>
+        <dd>
+          <a href="https://readthedocs.org/projects/pymysql/builds/">Builds</a>
+        </dd>
+        <dd>
+          <a href="https://readthedocs.org/projects/pymysql/downloads/">Downloads</a>
+        </dd>
+      </dl>
+      
+
+      
+
+      
+      <dl>
+        <dt>On GitHub</dt>
+        <dd>
+          <a href="https://github.com/PyMySQL/PyMySQL/blob/master/docs/source/user/examples.rst">View</a>
+        </dd>
+        
+        <dd>
+          <a href="https://github.com/PyMySQL/PyMySQL/edit/master/docs/source/user/examples.rst">Edit</a>
+        </dd>
+        
+      </dl>
+      
+      
+
+      
+      <dl>
+        <dt>Search</dt>
+        <dd>
+          <div style="padding: 6px;">
+            <form id="flyout-search-form" class="wy-form" target="_blank" action="https://readthedocs.org/projects/pymysql/search/" method="get">
+              <input type="text" name="q" placeholder="Search docs">
+              </form>
+          </div>
+        </dd>
+      </dl>
+      
+
+
+
+      <hr>
+      
+        <small>
+          <span>Hosted by <a href="https://readthedocs.org/">Read the Docs</a></span>
+          <span> · </span>
+          <a href="https://docs.readthedocs.io/page/privacy-policy.html">Privacy Policy</a>
+        </small>
+      
+
+      
+
+</div>
+</div>
+  </div>
+
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+   
+
+
+<div id="rtd-b4e4xy45"></div></body></html>

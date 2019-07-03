@@ -26,7 +26,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: ['Examples — PyMySQL 0.7.2 documentation_files/**', 'PyMySQL tutorial - Python MySQL programming with PyMySQL module_files/**', 'Python3 MySQL 数据库连接 – PyMySQL 驱动 _ 菜鸟教程_files/**']
 
 # Writing
 new_post_name: :title.md # File name of new posts
